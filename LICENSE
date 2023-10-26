@@ -1,0 +1,14 @@
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. This software cannot be linked to applications not developed for the GTK toolkit, or applications that link to libraries not developed for the GTK toolkit.
+
+2. This license does not permit the use of this software running on KDE Plasma, LXQt, or any other desktop environment that is not GNOME. This software is only permitted to run on the GNOME desktop environment.
+
+3. Users of this software must NOT be running any other desktop environment other than GNOME, this also applies to GNOME Project maintainers that are not running GNOME on their development and daily-use machines (also called a "daily driver"). Doing so will result in the immediate termination of the license, and the user will be required to stop using this software immediately, uninstall it, and destroy all copies of the software. Failing to do will result in legal action.
+
+4. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
